@@ -1,2 +1,1 @@
-# autocomplete-app
-Quick Autocomplete App With JS &amp; JSON
+# Quick Autocomplete App With JS & JSON
